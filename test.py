@@ -17,10 +17,10 @@ except ImportError:
 #The secret stuff suite...
 
     print("Import Error!!!\nExiting!!!")
-CONSUMER_KEY = 'nRK0VDHdmkHNZu4cKe1IgYGL6'
-CONSUMER_SECRET = 'DZA3VCyc6H8BQ2OV5KQSE6jITpncHeXNnWSAkxgyhdyBKN5rEJ'               #Just get there keys from twitter
-ACCESS_KEY = '1582316359-ZORnB53zIBjQxOCvcXRNzeJOajanYEy9MbIgPez'                    #you will get them on creating a bot
-ACCESS_SECRET = 'AmAtPH0HtogLbsYd0U2qRXaxKHxUbnN9W25vMFtBr08I9'
+CONSUMER_KEY = ''
+CONSUMER_SECRET = ''               #Just get there keys from twitter
+ACCESS_KEY = ''                    #you will get them on creating a bot
+ACCESS_SECRET = ''
 
 
 #The authentication suite...
